@@ -16,8 +16,8 @@ body {
 }
 
 .clock {
-    width: 30%;
-    height: 30%;
+    width: 20em;
+    height: 20em;
     border: 20px solid white;
     border-radius: 50%;
     background: rgba(255, 255, 255, 0.2) url("images/clock.png"); 
